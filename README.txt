@@ -4,4 +4,4 @@
 g++ -o SmartCar main.cpp AGXKit.cpp Battery.cpp Chassis.cpp Display.cpp DualCamera.cpp Gyroscope.cpp Lidar.cpp SmartCar.cpp StudentInfo.cpp Tire.cpp -std=c++17
 
 github链接：
-https://github.com/whos2/Intelligent-Car-Management-v1.git
+https://github.com/whos2/Intelligent-Car-Management-v2.git
